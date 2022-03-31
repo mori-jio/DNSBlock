@@ -9,12 +9,15 @@
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api2.branch.io
 0.0.0.0 app-gt.com
+0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.mmate.jp
 0.0.0.0 assets.applovin.com
 0.0.0.0 baibai.co.jp
 0.0.0.0 bds-sg.byteoversea.com
 0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 bytedance.map.fastly.net
@@ -58,6 +61,7 @@
 0.0.0.0 s.yjtag.jp
 0.0.0.0 sdfp-sg.byteoversea.com
 0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.rat.rakuten.co.jp
 0.0.0.0 sf19-fe-tos-sg.i18n-pglstatp.com
 0.0.0.0 spsvcsp-tls.i-mobile.co.jp
