@@ -58,6 +58,7 @@
 0.0.0.0 res-creatives.maio.jp
 0.0.0.0 res1.applovin.com
 0.0.0.0 rt.applovin.com
+0.0.0.0 s-ad.rmp.rakuten.co.jp
 0.0.0.0 s.yjtag.jp
 0.0.0.0 sdfp-sg.byteoversea.com
 0.0.0.0 sdk.iad-01.braze.com
