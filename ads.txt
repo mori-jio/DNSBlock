@@ -21,6 +21,7 @@
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 bytedance.map.fastly.net
 0.0.0.0 cat.jp2.as.criteo.com
+0.0.0.0 cdb.amanad.adtdp.com
 0.0.0.0 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdp.cloud.unity3d.com
