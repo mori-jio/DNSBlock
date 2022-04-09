@@ -2,6 +2,7 @@
 0.0.0.0 a.line.me
 0.0.0.0 a4.applovin.com
 0.0.0.0 adchk.fivecdm.com
+0.0.0.0 ad-proxy.reward.rakuten.co.jp
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 alisg-normal-lb.byteoversea.net
 0.0.0.0 analytics.cloud.unity3d.com
