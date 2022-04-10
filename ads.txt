@@ -1,8 +1,8 @@
 0.0.0.0 a.applovin.com
 0.0.0.0 a.line.me
 0.0.0.0 a4.applovin.com
-0.0.0.0 adchk.fivecdm.com
 0.0.0.0 ad-proxy.reward.rakuten.co.jp
+0.0.0.0 adchk.fivecdm.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 alisg-normal-lb.byteoversea.net
 0.0.0.0 analytics.cloud.unity3d.com
@@ -53,6 +53,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 prod.rewardsplatform.microsoft.com
 0.0.0.0 pub-sdk-cfg.criteo.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 rat.rakuten.co.jp
@@ -66,6 +67,7 @@
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.rat.rakuten.co.jp
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 sf19-fe-tos-sg.i18n-pglstatp.com
 0.0.0.0 spsvcsp-tls.i-mobile.co.jp
 0.0.0.0 static.criteo.net
