@@ -44,6 +44,7 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 graph.facebook.com
+0.0.0.0 grp301.api.ias.rakuten.co.jp
 0.0.0.0 gum.criteo.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 match.adsrvr.org
