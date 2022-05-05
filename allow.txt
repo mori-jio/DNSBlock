@@ -1,3 +1,1 @@
-crs-event.line.me
-nelo2-col.linecorp.com
-uts-front.line-apps.com
+0.0.0.0 google-analytics.com
