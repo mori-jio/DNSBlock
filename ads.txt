@@ -3,6 +3,7 @@
 0.0.0.0 baibai.co.jp
 0.0.0.0 connect.facebook.net
 0.0.0.0 counter.wikiwiki.jp
+0.0.0.0 graph.facebook.com
 0.0.0.0 grp07.ias.rakuten.co.jp
 0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 secure.rat.rakuten.co.jp
