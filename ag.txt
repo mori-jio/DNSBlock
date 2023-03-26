@@ -2,6 +2,7 @@
 ||app-gt.com^
 ||app.mmate.jp^
 ||baibai.co.jp^
+||bc.googleusercontent.com^
 ||browser.pipe.aria.microsoft.com^
 ||collector.cint.com^|
 ||connect.facebook.net^
