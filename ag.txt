@@ -1,6 +1,7 @@
 ! deny
 ||app-gt.com^
 ||app.mmate.jp^
+||appsflyersdk.com^
 ||baibai.co.jp^
 ||bc.googleusercontent.com^
 ||browser.pipe.aria.microsoft.com^
