@@ -3,11 +3,8 @@
 ||app.mmate.jp^
 ||appsflyersdk.com^
 ||baibai.co.jp^
-||bc.googleusercontent.com^
 ||browser.pipe.aria.microsoft.com^
-||collector.cint.com^|
-||connect.facebook.net^
-||counter.wikiwiki.jp^
+||collector.cint.com^
 ||error.rakuten.co.jp^
 ||graph.facebook.com^
 ||grp07.ias.rakuten.co.jp^
@@ -19,5 +16,6 @@
 ||tshop.r10s.jp^
 ||userlocation.googleapis.com^
 ! allow
-@@||cint.com^
+@@||app-measurement.com^|
+@@||cint.com^|
 @@||google-analytics.com^|
