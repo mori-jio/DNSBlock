@@ -5,6 +5,7 @@
 ||baibai.co.jp^
 ||browser.pipe.aria.microsoft.com^
 ||collector.cint.com^
+||connect.facebook.com^
 ||error.rakuten.co.jp^
 ||graph.facebook.com^
 ||grp07.ias.rakuten.co.jp^
