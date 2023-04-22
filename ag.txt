@@ -7,6 +7,9 @@
 ||collector.cint.com^
 ||connect.facebook.com^
 ||error.rakuten.co.jp^
+||flyer-announce.api.screen.rakuten.co.jp^
+||flyer.screen.r10s.jp^
+||flyer.screen.rakuten.co.jp^
 ||graph.facebook.com^
 ||grp07.ias.rakuten.co.jp^
 ||mssdk-sg-bu.byteoversea.com^
