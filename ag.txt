@@ -26,4 +26,5 @@
 @@||app-measurement.com^|
 @@||cint.com^|
 @@||google-analytics.com^|
+@@||macromill.com^|
 @@||userlocation.googleapis.com^|
