@@ -25,6 +25,6 @@
 ! allow
 @@||app-measurement.com^|
 @@||cint.com^|
+@@||glossom.jp^|
 @@||google-analytics.com^|
-@@||macromill.com^|
 @@||userlocation.googleapis.com^|
