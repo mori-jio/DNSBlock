@@ -8,6 +8,7 @@
 ||browser.pipe.aria.microsoft.com^
 ||collector.cint.com^
 ||connect.facebook.com^
+||dbadorekkusu.site^
 ||error.rakuten.co.jp^
 ||flyer-announce.api.screen.rakuten.co.jp^
 ||flyer.screen.r10s.jp^
