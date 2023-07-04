@@ -1,5 +1,6 @@
 ! deny
 ||am.yahoo.co.jp^
+||api-sdk.beaconbank.jp^
 ||app-gt.com^
 ||app.mmate.jp^
 ||appsflyersdk.com^
