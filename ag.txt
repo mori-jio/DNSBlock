@@ -9,21 +9,24 @@
 ||collector.cint.com^
 ||connect.facebook.com^
 ||dbadorekkusu.site^
+||dbadorekkusu.site^
 ||error.rakuten.co.jp^
 ||flyer-announce.api.screen.rakuten.co.jp^
 ||flyer.screen.r10s.jp^
 ||flyer.screen.rakuten.co.jp^
-||graph.facebook.com^
 ||grp07.ias.rakuten.co.jp^
+||in.appcenter.ms^
 ||log.rmp.rakuten.co.jp^
 ||mssdk-sg-bu.byteoversea.com^
 ||pasha.r10s.jp^
 ||rat.rakuten.co.jp^
 ||s-ad.rmp.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
+||self.events.data.microsoft.com^
 ||thumbnail.image.rakuten.co.jp^
 ||tshop.r10s.jp^
 ||www.ads.trip-mile.com^
+
 ! allow
 @@||cint.com^|
 @@||glossom.jp^|
