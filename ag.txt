@@ -1,4 +1,5 @@
 ! deny
+||a.line.me^
 ||am.yahoo.co.jp^
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
