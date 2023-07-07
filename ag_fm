@@ -1,0 +1,21 @@
+! ----deny---- !
+||graph.facebook.com^
+||logly.co.jp^
+! outbrain
+||amplify.outbrain.com^
+||amplifypixel.outbrain.com^
+||eventlog.outbrain.com^
+||hpr.outbrain.com^
+||log-ird.outbrain.com^
+||log.outbrain.com^
+||log.outbrainimg.com^
+||mcdp-*.outbrain.com^
+||odb.outbrain.com^
+||rva.outbrain.com^
+||stas.outbrain.com^
+||sync.outbrain.com^
+||tr.outbrain.com^
+||videoevents.outbrain.com^
+||widget-pixels.outbrain.com^
+! rakuten
+||rat.rakuten.co.jp^
