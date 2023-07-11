@@ -1,5 +1,6 @@
 ! ----deny---- !
-||applvn.com^
+||d.applvn.com^
+||rt.applvn.com^
 ||graph.facebook.com^
 ||logly.co.jp^
 ! outbrain
