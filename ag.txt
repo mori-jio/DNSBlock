@@ -1,5 +1,6 @@
 ! deny
 ||a.line.me^
+||applvn.com^
 ||am.yahoo.co.jp^
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
