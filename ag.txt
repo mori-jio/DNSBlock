@@ -26,4 +26,5 @@
 ||www.ads.trip-mile.com^
 
 ! allow
+@@||app.adjust.com^|
 @@||google-analytics.com^|
