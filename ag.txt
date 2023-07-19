@@ -27,4 +27,6 @@
 
 ! allow
 @@||app.adjust.com^|
+@@||b90.yahoo.co.jp^|
+@@||b92.yahoo.co.jp^|
 @@||google-analytics.com^|
