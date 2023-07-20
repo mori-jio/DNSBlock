@@ -1,4 +1,4 @@
-! Title: AdGuard DNS filter mori-jio Edition for family
+! Title: AdGuard DNS filter by mori-jio for family
 ! ----deny---- !
 ||d.applvn.com^
 ||rt.applvn.com^
