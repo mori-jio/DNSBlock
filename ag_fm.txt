@@ -1,9 +1,11 @@
 ! Title: AdGuard DNS filter by mori-jio for family
 ! ----deny---- !
+||ad.skyflag.jp^
 ||d.applvn.com^
 ||rt.applvn.com^
 ||graph.facebook.com^
 ||logly.co.jp^
+||ms4.applvn.com^
 ! outbrain
 ||amplify.outbrain.com^
 ||amplifypixel.outbrain.com^
