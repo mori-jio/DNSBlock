@@ -1,3 +1,4 @@
+! Title: AdGuard DNS filter by mori-jio
 ! deny
 ||a.line.me^
 ||applvn.com^
