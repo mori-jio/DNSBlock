@@ -1,7 +1,7 @@
 ! Title: AdGuard DNS filter by mori-jio
 ! deny
 ||a.line.me^
-||applvn.com^
+||ad.skyflag.jp^
 ||am.yahoo.co.jp^
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
@@ -17,6 +17,7 @@
 ||graph.facebook.com^
 ||grp07.ias.rakuten.co.jp^
 ||in.appcenter.ms^
+||ms4.applvn.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||pasha.r10s.jp^
 ||rat.rakuten.co.jp^
@@ -27,7 +28,3 @@
 ||www.ads.trip-mile.com^
 
 ! allow
-@@||app.adjust.com^|
-@@||b90.yahoo.co.jp^|
-@@||b92.yahoo.co.jp^|
-@@||google-analytics.com^|
