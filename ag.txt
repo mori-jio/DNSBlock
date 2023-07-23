@@ -1,4 +1,5 @@
 ! Title: AdGuard DNS filter by mori-jio
+! Description: DNS rules for me
 ! deny
 ||a.line.me^
 ||ad.skyflag.jp^
