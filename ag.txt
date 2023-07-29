@@ -9,14 +9,12 @@
 ||app.mmate.jp^
 ||appsflyersdk.com^
 ||baibai.co.jp^
-||connect.facebook.com^
 ||dbadorekkusu.site^
 ||error.rakuten.co.jp^
 ||events.mz.unity3d.com^
 ||flyer-announce.api.screen.rakuten.co.jp^
 ||flyer.screen.r10s.jp^
 ||flyer.screen.rakuten.co.jp^
-||graph.facebook.com^
 ||grp07.ias.rakuten.co.jp^
 ||in.appcenter.ms^
 ||ms4.applvn.com^
