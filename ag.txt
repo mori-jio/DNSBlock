@@ -1,5 +1,5 @@
 ! Title: AdGuard DNS filter by mori-jio
-! Description: DNS rules for me
+! Description: AdGuard DNS rules for me
 ! deny
 ||a.line.me^
 ||ad.skyflag.jp^
@@ -19,6 +19,7 @@
 ||in.appcenter.ms^
 ||ms4.applvn.com^
 ||mssdk-sg-bu.byteoversea.com^
+||pangle-b.io^
 ||pasha.r10s.jp^
 ||rat.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
