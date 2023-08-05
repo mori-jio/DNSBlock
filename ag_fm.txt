@@ -1,4 +1,6 @@
 ! Title: AdGuard DNS filter by mori-jio for family
+! Description: AdGuard DNS rules for "MIUCHI"
+! Homepage: https://github.com/mori-jio/DNSBlock
 ! ----deny---- !
 ||ad.skyflag.jp^
 ||d.applvn.com^
@@ -6,6 +8,7 @@
 ||graph.facebook.com^
 ||logly.co.jp^
 ||ms4.applvn.com^
+||pangle-b.io^
 ! outbrain
 ||amplify.outbrain.com^
 ||amplifypixel.outbrain.com^
