@@ -1,5 +1,6 @@
 ! Title: AdGuard DNS filter by mori-jio
 ! Description: AdGuard DNS rules for me
+! Homepage: https://github.com/mori-jio/DNSBlock
 ! deny
 ||a.line.me^
 ||ad.skyflag.jp^
