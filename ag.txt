@@ -35,3 +35,4 @@
 ||www.ads.trip-mile.com^
 
 ! allow
+@@||c.cintnetworks.com^
