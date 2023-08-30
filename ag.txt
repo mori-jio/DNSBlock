@@ -28,7 +28,6 @@
 ||pasha.r10s.jp^
 ||rat.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
-||scdn.line-apps.com^
 ||self.events.data.microsoft.com^
 ||thumbnail.image.rakuten.co.jp^
 ||tshop.r10s.jp^
