@@ -1,7 +1,8 @@
 ! Title: AdGuard DNS filter by mori-jio
 ! Description: AdGuard DNS rules for me
 ! Homepage: https://github.com/mori-jio/DNSBlock
-! unblock 
+
+! AQUOS update
 ! ad-dl02.4sh.jp
 
 ! deny
@@ -22,11 +23,10 @@
 ||graph.facebook.com^
 ||grp07.ias.rakuten.co.jp^
 ||in.appcenter.ms^
+||lap-click.tr.line.me^
 ||ms4.applvn.com^
 ||mssdk-sg-bu.byteoversea.com^
-||lap-click.tr.line.me^
 ||obs.line-scdn.net^
-||uts-front.line-apps.com^
 ||pangle-b.io^
 ||pasha.r10s.jp^
 ||rat.rakuten.co.jp^
@@ -34,8 +34,8 @@
 ||self.events.data.microsoft.com^
 ||thumbnail.image.rakuten.co.jp^
 ||tshop.r10s.jp^
+||uts-front.line-apps.com^
 ||vos.line-scdn.net^
 ||www.ads.trip-mile.com^
-
 ! allow
 @@||c.cintnetworks.com^
