@@ -37,5 +37,7 @@
 ||uts-front.line-apps.com^
 ||vos.line-scdn.net^
 ||www.ads.trip-mile.com^
+! tempolary
+||dic.nicovideo.jp^
 ! allow
 @@||c.cintnetworks.com^
