@@ -26,7 +26,6 @@
 ||lap-click.tr.line.me^
 ||ms4.applvn.com^
 ||mssdk-sg-bu.byteoversea.com^
-||obs.line-scdn.net^
 ||pangle-b.io^
 ||pasha.r10s.jp^
 ||rat.rakuten.co.jp^
