@@ -31,7 +31,6 @@
 ||rat.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
 ||self.events.data.microsoft.com^
-||teleport.soom.la^
 ||thumbnail.image.rakuten.co.jp^
 ||tshop.r10s.jp^
 ||uts-front.line-apps.com^
