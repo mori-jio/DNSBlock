@@ -17,24 +17,16 @@
 ||dbadorekkusu.site^
 ||error.rakuten.co.jp^
 ||events.mz.unity3d.com^
-||flyer-announce.api.screen.rakuten.co.jp^
-||flyer.screen.r10s.jp^
-||flyer.screen.rakuten.co.jp^
 ||graph.facebook.com^
-||grp07.ias.rakuten.co.jp^
 ||in.appcenter.ms^
 ||lap-click.tr.line.me^
 ||ms4.applvn.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||pangle-b.io^
-||pasha.r10s.jp^
 ||rat.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
 ||self.events.data.microsoft.com^
-||thumbnail.image.rakuten.co.jp^
-||tshop.r10s.jp^
-||uts-front.line-apps.com^
-||vos.line-scdn.net^
+||teleport.soom.la^
 ||www.ads.trip-mile.com^
 ! temporary
 ||dic.nicovideo.jp^
