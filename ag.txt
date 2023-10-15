@@ -18,6 +18,7 @@
 ||error.rakuten.co.jp^
 ||events.mz.unity3d.com^
 ||graph.facebook.com^
+||im-apps.net^
 ||in.appcenter.ms^
 ||lap-click.tr.line.me^
 ||ms4.applvn.com^
