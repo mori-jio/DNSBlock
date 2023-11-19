@@ -8,6 +8,7 @@
 ! deny
 ||a.line.me^
 ||ad.skyflag.jp^
+||ad*.mtgglobals.com^
 ||am.yahoo.co.jp^
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
