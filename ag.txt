@@ -8,7 +8,6 @@
 ! deny
 ||a.line.me^
 ||ad.skyflag.jp^
-||ad*.mtgglobals.com^
 ||am.yahoo.co.jp^
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
@@ -22,7 +21,6 @@
 ||im-apps.net^
 ||in.appcenter.ms^
 ||lap-click.tr.line.me^
-||ms4.applvn.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||pangle-b.io^
 ||rat.rakuten.co.jp^
@@ -33,4 +31,4 @@
 ! temporary
 ||dic.nicovideo.jp^
 ! allow
-@@||c.cintnetworks.com^
+! @@||www.google-analytics.com^|
