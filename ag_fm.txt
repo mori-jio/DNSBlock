@@ -5,7 +5,6 @@
 ||ad.skyflag.jp^
 ||d.applvn.com^
 ||rt.applvn.com^
-||graph.facebook.com^
 ||logly.co.jp^
 ||ms4.applvn.com^
 ||pangle-b.io^
