@@ -2,13 +2,12 @@
 ! Description: AdGuard DNS rules for me
 ! Homepage: https://github.com/mori-jio/DNSBlock
 
-! AQUOS update
+! AQUOS Update Server
 ! ad-dl02.4sh.jp
 
 ! deny
 ||a.line.me^
 ||ad.skyflag.jp^
-||am.yahoo.co.jp^
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
 ||app.mmate.jp^
@@ -31,4 +30,6 @@
 ! temporary
 ||dic.nicovideo.jp^
 ! allow
-! @@||www.google-analytics.com^|
+@@||app-measurement.com^|
+@@||b*.yahoo.co.jp^|
+@@||www.google-analytics.com^|
