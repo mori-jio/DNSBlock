@@ -11,6 +11,8 @@
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
 ||app.mmate.jp^
+||uts-front.line-apps.com^
+||vos.line-scdn.net^
 ||appsflyersdk.com^
 ||baibai.co.jp^
 ||dbadorekkusu.site^
@@ -27,8 +29,10 @@
 ||self.events.data.microsoft.com^
 ||teleport.soom.la^
 ||www.ads.trip-mile.com^
-! temporary
-||dic.nicovideo.jp^
+! LINE Reservation System
+||obs.line-scdn.net^
+! @@||obs.line-scdn.net^
+
 ! allow
 @@||app-measurement.com^|
 @@||b*.yahoo.co.jp^|
