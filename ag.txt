@@ -19,15 +19,12 @@
 ||error.rakuten.co.jp^
 ||events.mz.unity3d.com^
 ||graph.facebook.com^
-||im-apps.net^
 ||in.appcenter.ms^
 ||lap-click.tr.line.me^
 ||mssdk-sg-bu.byteoversea.com^
-||pangle-b.io^
 ||rat.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
 ||self.events.data.microsoft.com^
-||teleport.soom.la^
 ||www.ads.trip-mile.com^
 ! LINE Reservation System
 ||obs.line-scdn.net^
