@@ -5,7 +5,7 @@
 ! AQUOS Update Server
 ! ad-dl02.4sh.jp
 
-! deny
+! ----deny---- !
 ||a.line.me^
 ||ad.skyflag.jp^
 ||api-sdk.beaconbank.jp^
@@ -30,7 +30,7 @@
 ||obs.line-scdn.net^
 ! @@||obs.line-scdn.net^
 
-! allow
+! ----allow---- !
 @@||app-measurement.com^|
 @@||b*.yahoo.co.jp^|
 @@||google-analytics.com^|
