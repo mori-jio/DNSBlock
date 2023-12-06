@@ -4,6 +4,7 @@
 
 ! ----deny---- !
 ||ad.skyflag.jp^
+! ---This will eventually be removed.--- !
 ||d.applvn.com^
 ||rt.applvn.com^
 ||logly.co.jp^
@@ -25,6 +26,7 @@
 ||tr.outbrain.com^
 ||videoevents.outbrain.com^
 ||widget-pixels.outbrain.com^
+! ---END--- !
 ! rakuten
 ||rat.rakuten.co.jp^
 
