@@ -6,7 +6,7 @@
 ||d.applvn.com^
 ||rt.applvn.com^
 ||logly.co.jp^
-||ms4.applvn.com^
+||ms*.applvn.com^
 ||pangle-b.io^
 ! outbrain
 ||amplify.outbrain.com^
@@ -26,3 +26,9 @@
 ||widget-pixels.outbrain.com^
 ! rakuten
 ||rat.rakuten.co.jp^
+
+! ----allow---- !
+@@||app-measurement.com^|
+@@||b*.yahoo.co.jp^|
+@@||google-analytics.com^|
+
