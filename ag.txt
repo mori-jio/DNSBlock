@@ -33,5 +33,5 @@
 ! ----allow---- !
 @@||app-measurement.com^|
 @@||b*.yahoo.co.jp^|
-@@||google-analytics.com^|
+@@||www.google-analytics.com^|
 ! @@||googleads.g.doubleclick.net^|
