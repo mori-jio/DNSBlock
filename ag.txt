@@ -17,10 +17,8 @@
 ||baibai.co.jp^
 ||dbadorekkusu.site^
 ||error.rakuten.co.jp^
-||events.mz.unity3d.com^
 ||graph.facebook.com^
 ||in.appcenter.ms^
-||lap-click.tr.line.me^
 ||mssdk-sg-bu.byteoversea.com^
 ||rat.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
