@@ -31,7 +31,5 @@
 ||rat.rakuten.co.jp^
 
 ! ----allow---- !
-@@||app-measurement.com^|
 @@||b*.yahoo.co.jp^|
 @@||www.google-analytics.com^|
-
