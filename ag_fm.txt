@@ -29,7 +29,9 @@
 ! ---END--- !
 ! rakuten
 ||rat.rakuten.co.jp^
+||yb.uncn.jp^
 
 ! ----allow---- !
 @@||b*.yahoo.co.jp^|
+@@||uncn.jp^|
 @@||www.google-analytics.com^|
