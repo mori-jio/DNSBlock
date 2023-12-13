@@ -32,5 +32,6 @@
 @@||adjust.com^|
 @@||b*.yahoo.co.jp^|
 @@||crashlytics.com^|
+@@||stats.g.doubleclick.net|
 @@||www.google-analytics.com^|
 ! @@||googleads.g.doubleclick.net^|
