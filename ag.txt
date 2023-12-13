@@ -29,6 +29,8 @@
 ! @@||obs.line-scdn.net^
 
 ! ----allow---- !
+@@||adjust.com^|
 @@||b*.yahoo.co.jp^|
+@@||crashlytics.com^|
 @@||www.google-analytics.com^|
 ! @@||googleads.g.doubleclick.net^|
