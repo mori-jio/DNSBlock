@@ -32,6 +32,8 @@
 ||yb.uncn.jp^
 
 ! ----allow---- !
+@@||adjust.com^|
 @@||b*.yahoo.co.jp^|
+@@||crashlytics.com^|
 @@||uncn.jp^|
 @@||www.google-analytics.com^|
