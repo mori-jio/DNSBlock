@@ -26,12 +26,14 @@
 ||www.ads.trip-mile.com^
 ! LINE Reservation System
 ||obs.line-scdn.net^
-! @@||obs.line-scdn.net^
+! ||obs.line-scdn.net^$badfilter
 
 ! ----allow---- !
-@@||adjust.com^|
 @@||b*.yahoo.co.jp^|
-@@||crashlytics.com^|
+! とあるアプリでエラー
 @@||stats.g.doubleclick.net|
 @@||www.google-analytics.com^|
-! @@||googleads.g.doubleclick.net^|
+! ブロックしなくて良さそう
+||adjust.com^$badfilter
+||app-measurement.com^$badfilter
+||crashlytics.com^$badfilter
