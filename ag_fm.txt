@@ -32,9 +32,10 @@
 ||yb.uncn.jp^
 
 ! ----allow---- !
-@@||adjust.com^|
 @@||b*.yahoo.co.jp^|
-@@||crashlytics.com^|
 @@||stats.g.doubleclick.net|
 @@||uncn.jp^|
 @@||www.google-analytics.com^|
+||adjust.com^$badfilter
+||app-measurement.com^$badfilter
+||crashlytics.com^$badfilter
