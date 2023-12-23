@@ -4,29 +4,6 @@
 
 ! ----deny---- !
 ||ad.skyflag.jp^
-! ---This will eventually be removed.--- !
-||d.applvn.com^
-||rt.applvn.com^
-||logly.co.jp^
-||ms*.applvn.com^
-||pangle-b.io^
-! outbrain
-||amplify.outbrain.com^
-||amplifypixel.outbrain.com^
-||eventlog.outbrain.com^
-||hpr.outbrain.com^
-||log-ird.outbrain.com^
-||log.outbrain.com^
-||log.outbrainimg.com^
-||mcdp-*.outbrain.com^
-||odb.outbrain.com^
-||rva.outbrain.com^
-||stas.outbrain.com^
-||sync.outbrain.com^
-||tr.outbrain.com^
-||videoevents.outbrain.com^
-||widget-pixels.outbrain.com^
-! ---END--- !
 ! rakuten
 ||rat.rakuten.co.jp^
 ||yb.uncn.jp^
