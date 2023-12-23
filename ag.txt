@@ -25,6 +25,7 @@
 ||self.events.data.microsoft.com^
 ||www.ads.trip-mile.com^
 ! LINE Reservation System
+! トークリスト上の広告が消せるが公式アカウントの予約システムなどが使えなくなる
 ||obs.line-scdn.net^
 ! ||obs.line-scdn.net^$badfilter
 
