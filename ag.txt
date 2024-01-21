@@ -31,7 +31,10 @@
 
 ! ----allow---- !
 @@||b*.yahoo.co.jp^|
-! とあるアプリでエラー
+! 一部アプリでエラー
+||clb.yahoo.co.jp^$badfilter
+||dsb.yahoo.co.jp^$badfilter
+||s.yjtag.jp^$badfilter
 @@||stats.g.doubleclick.net|
 @@||www.google-analytics.com^|
 ! ブロックしなくて良さそう
