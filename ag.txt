@@ -31,7 +31,7 @@
 
 ! ----allow---- !
 @@||b*.yahoo.co.jp^|
-! 一部アプリでエラー
+! 一部アプリで不具合発生
 ||clb.yahoo.co.jp^$badfilter
 ||dsb.yahoo.co.jp^$badfilter
 ||s.yjtag.jp^$badfilter
