@@ -15,4 +15,7 @@
 @@||www.google-analytics.com^|
 ||adjust.com^$badfilter
 ||app-measurement.com^$badfilter
+||clb.yahoo.co.jp^$badfilter
 ||crashlytics.com^$badfilter
+||dsb.yahoo.co.jp^$badfilter
+||s.yjtag.jp^$badfilter
