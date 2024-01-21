@@ -38,6 +38,5 @@
 @@||stats.g.doubleclick.net|
 @@||www.google-analytics.com^|
 ! ブロックしなくて良さそう
-||adjust.com^$badfilter
 ||app-measurement.com^$badfilter
 ||crashlytics.com^$badfilter
