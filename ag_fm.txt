@@ -13,7 +13,6 @@
 @@||stats.g.doubleclick.net|
 @@||uncn.jp^|
 @@||www.google-analytics.com^|
-||adjust.com^$badfilter
 ||app-measurement.com^$badfilter
 ||clb.yahoo.co.jp^$badfilter
 ||crashlytics.com^$badfilter
