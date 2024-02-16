@@ -6,7 +6,6 @@
 ! ad-dl02.4sh.jp
 
 ! ----deny---- !
-||a.line.me^
 ||ad.skyflag.jp^
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
@@ -24,8 +23,7 @@
 ||s-evt.rmp.rakuten.co.jp^
 ||self.events.data.microsoft.com^
 ||www.ads.trip-mile.com^
-! LINE Reservation System
-! トークリスト上の広告が消せるが公式アカウントの予約システムなどが使えなくなる
+! LINE トークリスト上の広告が消せるが公式アカウントの予約システムなどが使えなくなる
 ||obs.line-scdn.net^
 ! ||obs.line-scdn.net^$badfilter
 
