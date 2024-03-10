@@ -4,8 +4,6 @@
 
 ! ----deny---- !
 ||ad.skyflag.jp^
-! rakuten
-||rat.rakuten.co.jp^
 ||yb.uncn.jp^
 
 ! ----allow---- !
