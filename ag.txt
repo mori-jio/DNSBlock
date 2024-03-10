@@ -18,7 +18,6 @@
 ||graph.facebook.com^
 ||in.appcenter.ms^
 ||mssdk-sg-bu.byteoversea.com^
-||rat.rakuten.co.jp^
 ||s-evt.rmp.rakuten.co.jp^
 ||self.events.data.microsoft.com^
 ||www.ads.trip-mile.com^
