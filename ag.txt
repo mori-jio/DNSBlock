@@ -10,6 +10,7 @@
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
 ||app.mmate.jp^
+||na*jgod.com^
 ||uts-front.line-apps.com^
 ||appsflyersdk.com^
 ||baibai.co.jp^
