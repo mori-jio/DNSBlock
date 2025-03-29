@@ -10,7 +10,6 @@
 ||api-sdk.beaconbank.jp^
 ||app-gt.com^
 ||app.mmate.jp^
-||na*jgod.com^
 ||uts-front.line-apps.com^
 ||appsflyersdk.com^
 ||baibai.co.jp^
@@ -31,8 +30,7 @@
 ! 一部アプリで不具合発生
 ||clb.yahoo.co.jp^$badfilter
 ||dsb.yahoo.co.jp^$badfilter
-||s.yjtag.jp^$badfilter
-@@||stats.g.doubleclick.net|
+@@||yjtag.jp^|
 @@||www.google-analytics.com^|
 ! ブロックしなくて良さそう
 ||app-measurement.com^$badfilter
