@@ -4,15 +4,13 @@
 
 ! ----deny---- !
 ||ad.skyflag.jp^
-||yb.uncn.jp^
 
 ! ----allow---- !
 @@||b*.yahoo.co.jp^|
-@@||stats.g.doubleclick.net|
 @@||uncn.jp^|
+@@||yjtag.jp^|
 @@||www.google-analytics.com^|
 ||app-measurement.com^$badfilter
 ||clb.yahoo.co.jp^$badfilter
 ||crashlytics.com^$badfilter
 ||dsb.yahoo.co.jp^$badfilter
-||s.yjtag.jp^$badfilter
